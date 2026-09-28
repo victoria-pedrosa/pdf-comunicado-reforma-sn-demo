@@ -1,6 +1,6 @@
-# Pdf Comunicado Reforma Sn
+# Demonstração — Geração de comunicados da reforma para o Simples
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de geração de comunicados da reforma para o Simples — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Cada cliente do Simples precisava receber um comunicado técnico sobre 2027 com seus próprios números.
